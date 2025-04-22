@@ -29,6 +29,8 @@ The Akan people of Ghana name children based on the day of the week they were bo
 2. Open `akan_name_generator.html` in any modern web browser.
 3. Enter your birthdate and select your gender.
 4. Click **"Generate"** to see your Akan name!
+5.  https://danbradleystakusopere.github.io/AKAN/
+
 
 ##  File
 
@@ -44,4 +46,3 @@ MIT License
 
 ---
 
-Feel free to fork, improve, or customize!
